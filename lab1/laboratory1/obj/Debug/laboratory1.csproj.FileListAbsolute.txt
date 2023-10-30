@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\laboratory1\laboratory1\bin\Debug\laboratory1.exe.config
+C:\Users\user\source\repos\laboratory1\laboratory1\bin\Debug\laboratory1.exe
+C:\Users\user\source\repos\laboratory1\laboratory1\bin\Debug\laboratory1.pdb
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.Form1.resources
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.Properties.Resources.resources
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.exe
+C:\Users\user\source\repos\laboratory1\laboratory1\obj\Debug\laboratory1.pdb
